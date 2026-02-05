@@ -6,6 +6,13 @@ This project is a **fully functional and running Flutter application**, develope
 
 ---
 
+## 🎨 Figma Design
+
+**View UI/UX Design:**  
+[FIGMA_DESIGN_LINK](https://www.figma.com/design/DaeSAnUXNjEU03rDP2vMTE/%E0%AA%95%E0%AB%83%E0%AA%B7%E0%AA%BF-%E0%AA%A6%E0%AA%B5%E0%AA%BE?node-id=0-1&p=f&t=Qm4cJLOtefoB5U0b-0)
+
+---
+
 ## 📌 Project Overview
 
 Krushidava is a Flutter application designed to support farmers by providing **easy access to agricultural resources and information**.  
